@@ -53,4 +53,4 @@ It helps track progress, highlight priorities, and show what’s coming next.
 
 ---
 
-*Last updated: {{today’s date}}*
+*Last updated: 8/19/2025*
