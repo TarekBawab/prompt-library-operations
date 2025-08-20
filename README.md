@@ -2,6 +2,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/TarekBawab/prompt-library-operations)
 ![Open Issues](https://img.shields.io/github/issues/TarekBawab/prompt-library-operations)
 ![Repo Size](https://img.shields.io/github/repo-size/TarekBawab/prompt-library-operations)
+[![GitHub stars](https://img.shields.io/github/stars/TarekBawab/prompt-library-operations?style=social)](https://github.com/TarekBawab/prompt-library-operations/stargazers)
 
 # Prompt Library for Operations
 
