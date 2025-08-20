@@ -1,3 +1,8 @@
+![License](https://img.shields.io/github/license/TarekBawab/prompt-library-operations)
+![Last Commit](https://img.shields.io/github/last-commit/TarekBawab/prompt-library-operations)
+![Open Issues](https://img.shields.io/github/issues/TarekBawab/prompt-library-operations)
+![Repo Size](https://img.shields.io/github/repo-size/TarekBawab/prompt-library-operations)
+
 # Prompt Library for Operations
 
 Copy-pasteable prompts for franchise & service businesses.  
