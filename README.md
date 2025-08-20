@@ -1,4 +1,4 @@
-![License](https://img.shields.io/github/license/TarekBawab/prompt-library-operations)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 ![Last Commit](https://img.shields.io/github/last-commit/TarekBawab/prompt-library-operations)
 ![Open Issues](https://img.shields.io/github/issues/TarekBawab/prompt-library-operations)
 ![Repo Size](https://img.shields.io/github/repo-size/TarekBawab/prompt-library-operations)
